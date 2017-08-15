@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 <main class="container">
-<h1 class="page-post-title"></h1>
+<h1 class="page-post-title">Noticia</h1>
 	<ul class="row col-lg-12" style="list-style: none;">
 <?php 
 if (have_posts()) :

@@ -1,1 +1,1 @@
-<h1>eu</h1>
+<h1>Pagina: <?php echo $pagename; ?></h1>

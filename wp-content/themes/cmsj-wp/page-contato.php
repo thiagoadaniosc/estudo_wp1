@@ -1,0 +1,1 @@
+<h1><?php the_title('Pagina de: '); ?> <?php the_post(); the_content(); ?></h1>
